@@ -1,0 +1,14 @@
+*.asv
+.DS*
+~*.m
+*.swp
+*.bak
+
+*.xls
+*.tsv
+*.mp4
+
+*.suo
+
+# build output
+build/*
