@@ -19,8 +19,7 @@ The `Streaming` folder includes scripts for setting up data streams using LSL. T
 #### Key Scripts:
 
 - **LSL_video_capture_v2.py**: Captures video from a webcam and streams it via LSL. This script sets up the video capture properties, initializes an LSL stream outlet, and streams video frames in real-time.
-- **noraxon_stream_example.m**: Demonstrates how to stream EMG data from a Noraxon device using LSL. It initializes the connection to the Noraxon stream, collects data, and streams it via LSL.
-- **other_stream_scripts**: Additional scripts for streaming other types of data or from other devices.
+- **other_stream_scripts**: Add the other scripts for streaming other types of data or from other devices.
 
 ### [Post-processing](https://github.com/neuroergolab/Lab_Streaming_Layer/tree/main/Post-processing)
 
@@ -28,9 +27,7 @@ The `Post-processing` folder includes scripts for processing the data that has b
 
 #### Key Scripts:
 
-- **process_data_example.py**: Processes the streamed data, such as filtering, segmentation, and feature extraction. This script is useful for preparing the data for further analysis.
-- **visualize_data_example.py**: Visualizes the processed data using various plotting techniques to aid in data interpretation and presentation.
-- **other_post_processing_scripts**: Additional scripts for specific data processing tasks or custom analysis workflows.
+- - **other_stream_scripts**: Add the other scripts for the post-processing.
 
 ## Usage
 
